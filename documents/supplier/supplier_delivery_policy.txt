@@ -1,0 +1,43 @@
+Document Type: Supplier Delivery Policy
+Document Status: Illustrative project document
+Document ID: SUP-DEL-001
+
+1. Delivery Performance
+
+Suppliers are expected to deliver orders by the agreed delivery date specified in the purchase or logistics agreement.
+
+A delivery is considered late when the actual delivery date is later than the agreed delivery date.
+
+Repeated late deliveries may trigger a supplier performance review.
+
+2. Delivery Confirmation
+
+Suppliers should provide shipment and delivery confirmation information when goods are dispatched and delivered.
+
+The following information should be available where applicable:
+
+* Order reference
+* Shipment reference
+* Dispatch date
+* Expected delivery date
+* Actual delivery date
+* Carrier information
+
+3. Supplier Performance Review
+
+Supplier delivery performance may be reviewed using measures such as:
+
+* On-time delivery rate
+* Late delivery rate
+* Average delivery delay
+* Number of delayed shipments
+
+Performance thresholds and corrective actions should be defined in the applicable supplier agreement.
+
+4. Escalation
+
+If a supplier repeatedly fails to meet agreed delivery dates, the logistics team may request a corrective action plan.
+
+The corrective action plan should identify the cause of the delays and proposed actions to improve future delivery performance.
+
+Important: This document is an illustrative document created for the portfolio project. It does not represent an actual Wärtsilä policy or contractual requirement.

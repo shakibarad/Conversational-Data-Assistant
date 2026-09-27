@@ -1,0 +1,55 @@
+Document Type: Carrier Service Guidelines
+Document Status: Illustrative project document
+Document ID: CAR-001
+
+1. Shipment Planning
+
+Carrier selection should consider the required delivery date, shipment origin, destination, service level, cost, and applicable transport restrictions.
+
+2. Standard Service
+
+Standard service is intended for shipments where the agreed delivery date allows normal transportation lead time.
+
+The logistics team should compare the carrier's expected transit time with the required delivery date before selecting the service.
+
+3. Expedited Service
+
+Expedited service may be considered when the required delivery date cannot reasonably be achieved using standard transportation.
+
+Expedited transportation may result in higher transportation costs.
+
+4. Shipment Tracking
+
+Shipment tracking information should be captured where available.
+
+Important tracking events may include:
+
+* Shipment created
+* Shipment picked up
+* Shipment in transit
+* Shipment arrived at destination facility
+* Shipment delivered
+
+5. Delivery Exceptions
+
+Examples of delivery exceptions include:
+
+* Carrier delay
+* Incorrect or incomplete address
+* Damaged shipment
+* Customs or regulatory delay
+* Weather disruption
+* Recipient unavailable
+
+Delivery exceptions should be recorded and investigated when they contribute to missed delivery dates.
+
+6. Performance Monitoring
+
+Carrier performance can be monitored using measures such as:
+
+* On-time delivery rate
+* Average transit time
+* Number of delivery exceptions
+* Average delay duration
+
+Important: This document is an illustrative document created for the portfolio project. It does not represent an actual Wärtsilä policy, carrier agreement, or contractual requirement.

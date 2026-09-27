@@ -1,0 +1,39 @@
+Document Type: Logistics Guidance
+Document Status: Illustrative project document
+Document ID: LOG-INC-001
+
+1. Purpose
+
+This document provides simplified guidance on selected Incoterms used in international logistics.
+
+This document is intended for the portfolio project and is not a substitute for an official Incoterms publication or contractual advice.
+
+2. EXW - Ex Works
+
+Under EXW, the seller generally makes the goods available at the seller's premises or another agreed location.
+
+The buyer generally takes responsibility for arranging transportation from the agreed location.
+
+3. FCA - Free Carrier
+
+Under FCA, the seller delivers the goods to the carrier or another party nominated by the buyer at the agreed location.
+
+The specific delivery point should be clearly defined because responsibilities can depend on the agreed location.
+
+4. DAP - Delivered At Place
+
+Under DAP, the seller is generally responsible for arranging transportation to the named destination.
+
+The goods are made available to the buyer at the destination, ready for unloading.
+
+5. DDP - Delivered Duty Paid
+
+Under DDP, the seller generally takes responsibility for transporting the goods to the named destination and handling import formalities and applicable duties.
+
+DDP therefore places substantial responsibility on the seller.
+
+6. Logistics Consideration
+
+When analyzing a shipment, the applicable Incoterm should be considered together with the agreed delivery location, carrier arrangement, transport responsibilities, and contractual terms.
+
+Important: This document is an illustrative document created for the portfolio project. It does not represent an actual Wärtsilä policy, contract, or official Incoterms guidance.
